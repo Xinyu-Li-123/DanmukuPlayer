@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 /playground
+/.vscode
 
 .pnp.js
 
