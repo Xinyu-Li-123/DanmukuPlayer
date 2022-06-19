@@ -1,0 +1,40 @@
+.Player {
+    text-align: left;
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+.DanmukuPlayer {
+    /*position: relative; */
+    /*width: 400px; */
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: bisque;
+}
+
+.DanmukuPlayer .DanmukuScreen {
+    /*position: absolute; */
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+}
+
+.DanmukuPlayer .VideoPlayer {
+    /* position: absolute; */
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: brown;
+}
+
+.DanmukuPlayer .InfoContainer {
+    /* position: absolute; */
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: yellowgreen;
+}

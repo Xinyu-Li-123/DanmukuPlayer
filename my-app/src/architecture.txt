@@ -1,0 +1,10 @@
+App
+|__ Player
+|   |__ VideoPlayer
+|   |__ DanmukuPlayer
+|   \__ DanmukuSetting
+|
+|
+\__ InfoContainer
+    |__ InfoDisplayBar
+    \__ InfoSubmitBar

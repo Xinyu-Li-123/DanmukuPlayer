@@ -1,0 +1,12 @@
+.InfoContainer {
+    text-align: left;
+    margin: 10px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+}
+
+.InfoBar {
+    text-align: left;
+    margin: 10px;
+}
